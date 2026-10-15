@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Condret;Dimitri;;;
+FN:Dimitri Condret
+ORG:AUDIT CEFAT
+TITLE:Expert-comptable\, commissaire aux comptes
+TEL;TYPE=CELL,VOICE:+33 6 84 32 24 48
+TEL;TYPE=WORK,VOICE:+33 5 59 80 84 36
+EMAIL;TYPE=INTERNET,WORK:d.condret@cefat.fr
+ADR;TYPE=WORK:;;3 rue des Tiredous;Pau;;64000;France
+URL:https://www.auditcefat.fr/
+END:VCARD
